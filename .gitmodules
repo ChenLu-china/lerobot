@@ -1,0 +1,3 @@
+[submodule "external/gym_dso100"]
+	path = external/gym_dso100
+	url = git@github.com:ChenLu-china/gym_dso100.git
